@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Leticia Hon\u00F3rio\\Documents\\Web II\\tarefa2\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9067050-458E-46FB-865E-C0FCD54C95E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\leticia hon\u00F3rio\\documents\\web ii\\tarefa2\\webapplication1\\webapplication1\\controllers\\tbpacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9067050-458E-46FB-865E-C0FCD54C95E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tbpacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9067050-458E-46FB-865E-C0FCD54C95E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\leticia hon\u00F3rio\\documents\\web ii\\tarefa2\\webapplication1\\webapplication1\\models\\tbpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9067050-458E-46FB-865E-C0FCD54C95E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\tbpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TbPacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia Hon\u00F3rio\\Documents\\Web II\\tarefa2\\WebApplication1\\WebApplication1\\Controllers\\TbPacientesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TbPacientesController.cs",
+              "ToolTip": "C:\\Users\\Leticia Hon\u00F3rio\\Documents\\Web II\\tarefa2\\WebApplication1\\WebApplication1\\Controllers\\TbPacientesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TbPacientesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:25:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TbPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Leticia Hon\u00F3rio\\Documents\\Web II\\tarefa2\\WebApplication1\\WebApplication1\\Models\\TbPaciente.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TbPaciente.cs",
+              "ToolTip": "C:\\Users\\Leticia Hon\u00F3rio\\Documents\\Web II\\tarefa2\\WebApplication1\\WebApplication1\\Models\\TbPaciente.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TbPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:18:28.75Z",
+              "EditorCaption": ""
             }
           ]
         }
